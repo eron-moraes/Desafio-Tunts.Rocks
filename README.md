@@ -4,6 +4,8 @@ Este repositório foi criado para subir o desafio da Tunts.Rocks. O desafio cons
 Segue abaixo o escopo do desafio e logo após o desafio realizado.
 __________________________________________________________________________________________
 
+Escopo do desafio:
+
 Dado que você esteja realizando um teste em um site, e necessite realizar uma rotina de cadastro simples, que possua os seguintes campos: “nome”, “e-mail”, “senha”, “repetir senha” e um botão “cadastrar”, devendo observar os seguintes critérios:
 
 • A validação dos campos é sempre após cada evento de saída dos campos, sendo validação em tempo de execução.
