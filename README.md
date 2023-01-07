@@ -21,6 +21,7 @@ Dado que você esteja realizando um teste em um site, e necessite realizar uma r
 • Caso o “e-mail” já tenha sido cadastrado, o cadastro não pode ser finalizado.
 
 • A conclusão da operação resultará em uma mensagem de sucesso "Cadastro realizado com sucesso!"
+__________________________________________________________________________________________
 
 Desafio Realizado:
 ![Caso de teste Tunts Rocks](https://user-images.githubusercontent.com/110741158/211155593-d383b0c6-7fd6-49ca-99f7-803df854ce04.jpg)
